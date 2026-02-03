@@ -25,7 +25,6 @@ While the CC BY-NC-ND 4.0 license permits non-commercial use, we kindly request 
 This allows us to track usage and discuss potential collaboration opportunities.
 
 ## Citation
-If you refer to this dataset, please cite:
 ```
 Iino, N., & Iino, A.: Fingering Prediction for Classical Guitar: Dataset Creation and Model Development. 
 In Proceedings of the 31st International Conference on Multimedia Modeling, MMM 2025, LNCS (Vol. 15524, pp. 134–141). (2025)
