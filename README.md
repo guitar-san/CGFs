@@ -1,2 +1,1 @@
-# fingering-prediction
-for classical guitar
+# Fingering Data for Classical Guitar 
