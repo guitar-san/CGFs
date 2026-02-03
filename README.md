@@ -12,16 +12,17 @@ For details on the dataset construction and preliminary findings, please refer t
 ## Sample Data
 This repository currently provides sample data for five etudes from the full dataset of 40 etudes. The complete dataset will be released upon completion of ongoing research.
 
-## Usage Restrictions
-**Important:** This dataset is provided for reference purposes only.
+## License
+This dataset is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-- ✅ Viewing and inspecting the data
-- ✅ Citing in academic publications
-- ❌ Using the data for training machine learning models
-- ❌ Incorporating into other datasets or projects
-- ❌ Redistribution in any form
+## Usage Guidelines
+While the CC BY-NC-ND 4.0 license permits non-commercial use, we kindly request that you contact the authors before:
 
-If you wish to use this dataset for research purposes beyond reference, please contact the authors to discuss collaboration opportunities.
+- Using the data for training machine learning models
+- Incorporating into other datasets or projects
+- Any use beyond viewing and citing
+
+This allows us to track usage and discuss potential collaboration opportunities.
 
 ## Citation
 If you refer to this dataset, please cite:
