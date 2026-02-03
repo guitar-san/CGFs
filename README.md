@@ -27,12 +27,12 @@ This allows us to track usage and discuss potential collaboration opportunities.
 ## Citation
 If you refer to this dataset, please cite:
 ```
-Iino, N., & Iino, A. (2025). Fingering Prediction for Classical Guitar: Dataset Creation and Model Development. 
-In I. Ide et al. (Eds.), MMM 2025, LNCS (Vol. 15524, pp. 134–141). Springer.
+Iino, N., & Iino, A.: Fingering Prediction for Classical Guitar: Dataset Creation and Model Development. 
+In Proceedings of the 31st International Conference on Multimedia Modeling, MMM 2025, LNCS (Vol. 15524, pp. 134–141). (2025)
 https://doi.org/10.1007/978-981-96-2074-6_14
 
-Iino, N., & Iino, A. (2026). Expert Fingering Variation in Classical Guitar Etudes: Creation of Dataset for Comparative Analysis. 
-In Music Encoding Conference 2026 Book of Abstracts. Tokyo, Japan.
+Iino, N., & Iino, A.: Expert Fingering Variation in Classical Guitar Etudes: Creation of Dataset for Comparative Analysis. 
+In Music Encoding Conference, MEC 2026 (2026)
 ```
 
 ## Contact
