@@ -10,7 +10,7 @@ For details on the dataset construction and preliminary findings, please refer t
 - `musicxml2csv/` - Python extraction pipeline using music21 and ElementTree
 
 ## Sample Data
-This repository currently provides sample data for five etudes from the full dataset of 40 etudes. The complete dataset will be released upon completion of ongoing research.
+This repository currently contains 40 etudes. More data will be added as the research progresses.
 
 ## License
 This dataset is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
