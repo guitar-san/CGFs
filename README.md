@@ -17,6 +17,11 @@ This repository currently contains 40 etudes. Additional data may be added in fu
 ## License
 This dataset is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
+Only derived note-level annotations (CSV files) and analysis scripts are distributed in this repository.  
+MusicXML files are excluded because they are based on copyrighted published scores.
+
+The authors are not responsible for any errors in the dataset or for any consequences arising from its use.
+
 ## Usage Guidelines
 While the CC BY-NC-ND 4.0 license permits non-commercial use, we kindly request that you contact the authors before:
 
