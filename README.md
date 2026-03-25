@@ -23,13 +23,13 @@ MusicXML files are excluded because they are based on copyrighted published scor
 The authors are not responsible for any errors in the dataset or for any consequences arising from its use.
 
 ## Usage Guidelines
-While the CC BY-NC-ND 4.0 license permits non-commercial use, we kindly request that you contact the authors before:
+While the CC BY 4.0 license permits reuse with attribution, we kindly request that you contact the authors before:
 
 - Using the data for training machine learning models
-- Incorporating into other datasets or projects
-- For uses beyond simple reference or citation
+- Incorporating it into other datasets or projects
+- Using it beyond simple reference or citation
 
-This allows us to track usage and discuss potential collaboration opportunities.
+This helps us understand usage and may support future collaboration.
 
 ## Citation
 ```
