@@ -1,4 +1,5 @@
 # CGFs (Classical Guitar Fingerings Dataset)
+! Currently under maintenance.
 
 ## Overview
 This repository contains fingering annotations for classical guitar etudes, encoded as CSV tables derived from MusicXML files.
